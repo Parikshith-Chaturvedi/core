@@ -50,3 +50,5 @@ export default tseslint.config({
 ```
 1 run npm i to install dependencies
 2 password for admin and user is available on the login card
+
+Note: Please run the music player app firstbefore the core app
